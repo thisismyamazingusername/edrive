@@ -1,5 +1,4 @@
-eDrive
-Explore fuel types, their molecular composition (CHO elements), and sustainability to assess environmental impact.
+eDrive: iOS app with AR features to explore gas, hybrid, and electric fuels by visualizing CHO molecules and comparing their environmental impact
 
-[Watch iphone demo here](https://youtu.be/G3N0ZxgJb8w). 
-For ipad, should be run on swift playgrounds.
+[iPhone demo here](https://youtu.be/_qhatFWp_7Y) 
+intended for swift playgrounds on iPad
